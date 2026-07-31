@@ -5,7 +5,7 @@
 %global crate mockito
 
 Name:           rust-%{crate}
-Version:        0.22.0
+Version:        1.7.2
 Release:        1%{?dist}
 Summary:        HTTP mocking for Rust
 
